@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Casa Azul",
+        "descricao": "Casa azul de desenho animado",
+        "preco": 1000.0,
+        "imagem_url": null
+    },
+    {
+        "nome": "Casa Azul",
+        "descricao": "Casa azul de desenho animado",
+        "preco": 1000.0,
+        "imagem_url": "https://stadiolab01.blob.core.windows.net/produtos/4498af94-547a-4107-ae97-54a07f7d37bd.jpg"
+    },
+    {
+        "nome": "Casa Azul",
+        "descricao": "CASINHA AZUL DE BRINQUEDO",
+        "preco": 10000.0,
+        "imagem_url": "https://stadiolab01.blob.core.windows.net/produtos/f37eaa01-6a66-4181-9c01-c0774471c84e.jpg"
+    },
+    {
+        "nome": "Casa Amarela",
+        "descricao": "Casa amarela do bairro XPTO",
+        "preco": 12000.3,
+        "imagem_url": "https://stadiolab01.blob.core.windows.net/produtos/59d5495d-e5ff-4780-b9dd-10929e551038.jpg"
+    },
+    {
+        "nome": "Casa V2",
+        "descricao": "Casa Azul Rua AAA",
+        "preco": 230000.0,
+        "imagem_url": "https://stadiolab01.blob.core.windows.net/produtos/e28e4711-8b86-4355-b584-1d8a77a6d941.jpg"
+    }
+]

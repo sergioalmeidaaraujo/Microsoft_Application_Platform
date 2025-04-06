@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Mod5 - Serverless\\Laboratorio\\fnGeradorBoletos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA6426F-AF75-4C89-8A42-BC7698C38143}|fnValidaBoleto\\fnValidaBoleto.csproj|c:\\users\\hsouz\\onedrive\\cursos\\dio\\microsoft application\\mod5 - serverless\\laboratorio\\fngeradorboletos\\fnvalidaboleto\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AA6426F-AF75-4C89-8A42-BC7698C38143}|fnValidaBoleto\\fnValidaBoleto.csproj|solutionrelative:fnvalidaboleto\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FD4C0F-B753-4DB7-8DB5-A2A7720F51AF}|fnGeradorBoletos\\fnGeradorBoletos.csproj|c:\\users\\hsouz\\onedrive\\cursos\\dio\\microsoft application\\mod5 - serverless\\laboratorio\\fngeradorboletos\\fngeradorboletos\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5FD4C0F-B753-4DB7-8DB5-A2A7720F51AF}|fnGeradorBoletos\\fnGeradorBoletos.csproj|solutionrelative:fngeradorboletos\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA6426F-AF75-4C89-8A42-BC7698C38143}|fnValidaBoleto\\fnValidaBoleto.csproj|c:\\users\\hsouz\\onedrive\\cursos\\dio\\microsoft application\\mod5 - serverless\\laboratorio\\fngeradorboletos\\fnvalidaboleto\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA6426F-AF75-4C89-8A42-BC7698C38143}|fnValidaBoleto\\fnValidaBoleto.csproj|solutionrelative:fnvalidaboleto\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FD4C0F-B753-4DB7-8DB5-A2A7720F51AF}|fnGeradorBoletos\\fnGeradorBoletos.csproj|c:\\users\\hsouz\\onedrive\\cursos\\dio\\microsoft application\\mod5 - serverless\\laboratorio\\fngeradorboletos\\fngeradorboletos\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FD4C0F-B753-4DB7-8DB5-A2A7720F51AF}|fnGeradorBoletos\\fnGeradorBoletos.csproj|solutionrelative:fngeradorboletos\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Mod5 - Serverless\\Laboratorio\\fnGeradorBoletos\\fnValidaBoleto\\local.settings.json",
+              "RelativeDocumentMoniker": "fnValidaBoleto\\local.settings.json",
+              "ToolTip": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Mod5 - Serverless\\Laboratorio\\fnGeradorBoletos\\fnValidaBoleto\\local.settings.json",
+              "RelativeToolTip": "fnValidaBoleto\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T02:07:31.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Mod5 - Serverless\\Laboratorio\\fnGeradorBoletos\\fnValidaBoleto\\Function1.cs",
+              "RelativeDocumentMoniker": "fnValidaBoleto\\Function1.cs",
+              "ToolTip": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Mod5 - Serverless\\Laboratorio\\fnGeradorBoletos\\fnValidaBoleto\\Function1.cs",
+              "RelativeToolTip": "fnValidaBoleto\\Function1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:55:42.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Mod5 - Serverless\\Laboratorio\\fnGeradorBoletos\\fnGeradorBoletos\\local.settings.json",
+              "RelativeDocumentMoniker": "fnGeradorBoletos\\local.settings.json",
+              "ToolTip": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Mod5 - Serverless\\Laboratorio\\fnGeradorBoletos\\fnGeradorBoletos\\local.settings.json",
+              "RelativeToolTip": "fnGeradorBoletos\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T01:23:26.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Mod5 - Serverless\\Laboratorio\\fnGeradorBoletos\\fnGeradorBoletos\\Function1.cs",
+              "RelativeDocumentMoniker": "fnGeradorBoletos\\Function1.cs",
+              "ToolTip": "C:\\Users\\hsouz\\OneDrive\\Cursos\\DIO\\Microsoft Application\\Mod5 - Serverless\\Laboratorio\\fnGeradorBoletos\\fnGeradorBoletos\\Function1.cs",
+              "RelativeToolTip": "fnGeradorBoletos\\Function1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAlwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T01:21:06.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

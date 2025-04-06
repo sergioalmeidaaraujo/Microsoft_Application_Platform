@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>Microsoft Application Platform</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -23,19 +23,19 @@
   <tr>
     <td>
         <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
+        <a href="https://github.com/hsouzaeduardo">
+        <img src="https://github.com/hsouzaeduardo" alt="@hsouzaeduardo"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
+    <p>🎉 25y+ em sistemas comerciais com .NET C#, python, Azure e IA.
       <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
+     🌟 Gerente Especialista em Arquitetura e IA 
       <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
+    👨‍💻 Foco em AI, Cloud e CloudNative
     </p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="https://www.linkedin.com/in/hsouzaeduardo/" 
       align="center">
            <img 
             align="center" 
@@ -43,7 +43,7 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             >
         </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
+        <a href="https://www.instagram.com/hsouzaeduardo81/" target="_blank">
             <img 
               align="center" 
               alt="Instagram" 

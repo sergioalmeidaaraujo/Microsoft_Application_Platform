@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnGeradorBoletos", "fnGeradorBoletos\fnGeradorBoletos.csproj", "{C5FD4C0F-B753-4DB7-8DB5-A2A7720F51AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fnValidaBoleto", "fnValidaBoleto\fnValidaBoleto.csproj", "{2AA6426F-AF75-4C89-8A42-BC7698C38143}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5FD4C0F-B753-4DB7-8DB5-A2A7720F51AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FD4C0F-B753-4DB7-8DB5-A2A7720F51AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FD4C0F-B753-4DB7-8DB5-A2A7720F51AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FD4C0F-B753-4DB7-8DB5-A2A7720F51AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA6426F-AF75-4C89-8A42-BC7698C38143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA6426F-AF75-4C89-8A42-BC7698C38143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA6426F-AF75-4C89-8A42-BC7698C38143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA6426F-AF75-4C89-8A42-BC7698C38143}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
