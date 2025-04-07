@@ -24,7 +24,7 @@
     <td>
         <p align="center">Expert</p>
         <a href="https://github.com/hsouzaeduardo">
-        <img src="https://github.com/hsouzaeduardo" alt="@hsouzaeduardo"><br>
+        <img src="https://avatars.githubusercontent.com/u/1692867?v=4" alt="@hsouzaeduardo"><br>
       </a>
     </td>
     <td colspan="3">
@@ -60,43 +60,66 @@
 <br/>
 
 ## 💻 Sobre o Projeto
-
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Este bootcamp avançado foi projetado para capacitar desenvolvedores e profissionais de TI com as habilidades práticas necessárias para construir, implantar e gerenciar aplicações modernas utilizando a plataforma Microsoft Azure. O foco está em tecnologias como App Services, Azure Container Apps,  além de conceitos fundamentais de DevOps aplicados ao ecossistema Microsoft.
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
 Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
-- _Exemplo_:
+- Azure | Básico
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+- Git e GitHub | Básico
 
-- [Outros pré-requisitos, se aplicável]
+- Lógica de Programação | Intermediário
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+- Conhecimentos de Desenvolvimento Web | Intermediário
+
+- Terminal/CLI | Básico
+
+Outros pré-requisitos:
+
+- Desejável experiência com alguma linguagem de programação como C#, JavaScript ou Python.
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
-- [Lista das habilidades principais a serem desenvolvidas]
+- Fundamentos da Plataforma Azure
 
-  - [Subhabilidades relacionadas, se aplicável]
+  - App Services
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+  - Azure CLI e Portal
+
+  - Armazenamento de dados
+
+- Contêineres e Orquestração
+
+  - Azure Container Apps
+  - Azure Kubernetes Service (AKS)
+  - Deploy de aplicações em contêiner
+
+
+- Monitoramento e Performance
+  - Application Insights
+  - Log Analytics
+  - Práticas de Observabilidade
+
+- Projeto Final Integrado
+  - Construção de solução end-to-end
+  - Armazenamento em nuvem
+  - Deploy manual 
 
 ## 🎯 Objetivos e Resultados Esperados
 
 Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+- Criar, configurar e gerenciar aplicações modernas utilizando serviços PaaS e CaaS da Microsoft Azure.
+
+- Realizar deploy de aplicações web e APIs utilizando Azure App Services e Container Apps.
+
+- Monitorar e diagnosticar aplicações usando ferramentas integradas do Azure.
+
+- Construir uma aplicação completa com backend em contêiner, armazenando dados na nuvem e com observabilidade configurada.
 
 <!--START_SECTION:footer-->
 
